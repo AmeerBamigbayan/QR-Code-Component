@@ -22,12 +22,12 @@ body{
 }
 
 .container{
-     width: 100%;
+     width: 40%;
      margin: 0 auto;
      background: #fff;
-     border-radius: 20px;
+     border-radius: 30px;
      transform: scale(0.5);
-     mar
+    
  }
  
 /* .container:after{
@@ -43,8 +43,21 @@ body{
      z-index: -1;
  }
 */
- .img{
-    transform: scale(0.7);
+ .img img{
+    transform: scale(0.9);
+    border-radius: 20px;
     margin: 0 auto;
-    width: 50%;
+    width: 100%;
+    height: 100%;
  }
+
+h2{
+    color: hsl(218, 44%, 22%);
+    font-size: 30px;
+    font-weight: 700;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
