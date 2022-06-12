@@ -9,3 +9,21 @@
 ### Links
 - Solution URL: https://github.com/AmeerBamigbayan/QR-Code-Component
 - Live Site URL: https://ameerbamigbayan.github.io/QR-Code-Component
+
+### Built with
+- HTML
+- CSS
+
+
+### Useful resources
+ - https://stackoverflow.com/
+ - https://css-tricks.com/
+
+
+## Author
+
+- Website - [Ameer Bamigbayan](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+
