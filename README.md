@@ -16,14 +16,14 @@
 
 
 ### Useful resources
- - https://stackoverflow.com/
- - https://css-tricks.com/
+ - [Stackoverflow](https://stackoverflow.com)
+ - [CSS Tricks](https://css-tricks.com)
 
 
 ## Author
 
-- Website - [Ameer Bamigbayan](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Ameer Bamigbayan]([https://www.your-site.com](https://ameerbamigbayan.com.ng/))
+- Frontend Mentor - [@AmeerBamigbayan](https://www.frontendmentor.io/profile/AmeerBamigbayan)
+- Twitter - [@am33r_105](https://twitter.com/am33r_105)
 
 
