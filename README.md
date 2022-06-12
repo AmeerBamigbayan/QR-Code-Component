@@ -7,5 +7,5 @@
 ![qr code component](https://user-images.githubusercontent.com/76779409/173219635-de4c234a-c5f7-4eed-9b5e-26df12efc96c.png)
 
 ### Links
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/AmeerBamigbayan/QR-Code-Component
+- Live Site URL: https://ameerbamigbayan.github.io/QR-Code-Component
