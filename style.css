@@ -20,6 +20,7 @@ body{
     background-color: #d5e1ef;
     align-items: center;
     margin-bottom: 50px;
+    position: relative;
 
 }
 
@@ -29,22 +30,12 @@ body{
      background: #fff;
      border-radius: 30px;
      transform: scale(0.5);
+     position: relative;
+        top: -180px;
     
  }
  
-/* .container:after{
-     content: '';
-     display: block;
-     position: absolute;
-     top: 0;
-     left: 20px;
-     right: 20px;
-     bottom: 0;
-     border-radius: 15px;
-     box-shadow: 0 20px 40px rgba(0, 0, 0, .4);
-     z-index: -1;
- }
-*/
+
  .img img{
     transform: scale(0.9);
     border-radius: 20px;
@@ -73,6 +64,9 @@ p{
     font-weight: 400;
     text-align: center;
     font-family: 'Outfit', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 80px;
+
 
 }
 
