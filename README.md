@@ -22,7 +22,7 @@
 
 ## Author
 
-- Website - [Ameer Bamigbayan](https://www.your-site.com](https://ameerbamigbayan.com.ng)
+- Website - [Ameer Bamigbayan](https://ameerbamigbayan.com.ng)
 - Frontend Mentor - [@AmeerBamigbayan](https://www.frontendmentor.io/profile/AmeerBamigbayan)
 - Twitter - [@am33r_105](https://twitter.com/am33r_105)
 
